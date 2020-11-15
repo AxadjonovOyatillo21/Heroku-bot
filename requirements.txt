@@ -1,2 +1,2 @@
-COVID-19-Cases=0.0.3
-pyTelegramBotAPI=3.7.3
+COVID-19-Cases==0.0.3
+pyTelegramBotAPI==3.7.1
